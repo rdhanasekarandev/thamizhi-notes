@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129636667102",
+    "project_id": "thamizhi-b86e0",
+    "storage_bucket": "thamizhi-b86e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129636667102:android:556aaa9f5e938d5fb33c4f",
+        "android_client_info": {
+          "package_name": "com.dogood.thamizhinotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129636667102-f7l01t3u9i2kr4m2946c1v11pet8pthv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1qjaI2VNHsd1jozldxLRBLtVwGZJl8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129636667102-f7l01t3u9i2kr4m2946c1v11pet8pthv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

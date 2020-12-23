@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">தமிழி நோட்ஸ்</string>
+    <string name="thamizhi">தமிழி</string>
+    <string name="notes">நோட்ஸ்</string>
+    <!--  Auth screen  -->
+    <string name="log_into_your_account">உங்கள் கணக்கில் உள்நுழைக</string>
+    <string name="please_enter_email_or_mobile_number">மின்னஞ்சல் அல்லது மொபைல் எண்ணை உள்ளிடவும்</string>
+    <string name="next">அடுத்தது</string>
+    <string name="or">அல்லது</string>
+    <string name="don_t_have_an_account">கணக்கு இல்லையா?</string>
+    <string name="register">பதிவு</string>
+    <string name="have_an_account">கணக்கு உள்ளதா?</string>
+    <string name="login">உள்நுழைய</string>
+    <string name="create_your_account">உங்கள் கணக்கை உருவாக்கவும்</string>
+    <string name="terms_amp_conditions">விதிமுறைகள் &amp; நிபந்தனைகள்</string>
+    <string name="by_signing_up_you_are_accepting_the">பதிவுபெறுவதன் மூலம், நீங்கள் ஏற்றுக்கொள்கிறீர்கள்</string>
+    <string name="enter_password">கடவுச்சொல்லை உள்ளிடவும்</string>
+    <string name="set_a_password">கடவுச்சொல்லை அமைக்கவும்</string>
+    <string name="by_logging_in_you_are_accepting_the">உள்நுழைவதன் மூலம், நீங்கள் ஏற்றுக்கொள்கிறீர்கள்</string>
+    <string name="type_your_password">உங்கள் கடவுச்சொல்லை தட்டச்சு செய்க</string>
+    <string name="please_enter_the_code_sent_to_the">அனுப்பப்பட்ட குறியீட்டை உள்ளிடவும்</string>
+    <string name="verify">சரிபார்க்கவும்</string>
+    <string name="didn_t_get_the_code">குறியீடு கிடைக்கவில்லையா?</string>
+    <string name="resend">மீண்டும் அனுப்பு</string>
+    <string name="login_with_password">கடவுச்சொல்லுடன் உள்நுழைக</string>
+    <string name="you_are_all_set">நீங்கள் எல்லாம் தயாராகிவிட்டீர்கள்!</string>
+    <string name="tell_us_a_little_more_about_you">உங்களைப் பற்றி இன்னும் கொஞ்சம் சொல்லுங்கள்</string>
+    <string name="first_name">முதல் பெயர்</string>
+    <string name="last_name">கடைசி பெயர்</string>
+    <string name="and_ready_set_go">மற்றும் தயாராக, அமை, போ!</string>
+    <string name="finish">முடி</string>
+    <string name="start">தொடங்கு</string>
+    <string name="hey_friend">ஏய் நண்பர்</string>
+    <string name="enter_your_birday">உங்கள் பிறந்தநாளை உள்ளிடவும்</string>
+    <string name="now_you_can">இப்பொழுது உன்னால் முடியும்</string>
+    <string name="enter_your_birthday_for">தனிப்பயனாக்கப்பட்ட கற்றலுக்காக உங்கள்</string>
+    <string name="personalized_learning">பிறந்தநாளை உள்ளிடவும்</string>
+    <!--  snackBar  -->
+    <string name="invalid">தவறானது</string>
+    <string name="Phone_number_is_not_valid">தொலைபேசி எண் செல்லுபடியாகாது</string>
+    <string name="the_email_id_is_invalid">மின்னஞ்சல் ஐடி தவறானது</string>
+    <string name="password_length_7_letters">கடவுச்சொல்லில் 7 க்கும் மேற்பட்ட எழுத்துக்கள் இருக்க வேண்டும்</string>
+    <string name="error">பிழை</string>
+    <string name="invalid_otp">தவறான OTP</string>
+    <string name="firstname_should_not_be_empty">முதல் பெயர் காலியாக இருக்கக்கூடாது</string>
+    <string name="lastname_should_not_be_empty">கடைசி பெயர் காலியாக இருக்கக்கூடாது</string>
+    <string name="please_enter_your_birthday">உங்கள் பிறந்தநாளை உள்ளிடவும்</string>
+    <string name="invalid_email_and_password">தவறான மின்னஞ்சல் மற்றும் கடவுச்சொல்</string>
+    <string name="error_while_creating_the_account">கணக்கை உருவாக்கும்போது பிழை</string>
+</resources>
